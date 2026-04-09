@@ -5,7 +5,7 @@ public class natural {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a number: "); // Optional prompt for clarity
-        int n = sc.nextInt();  // Must enter a valid integer
+        int n = sc.nextInt(); // Must enter a valid integer
 
         int sum = 0;
         for (int i = 1; i <= n; i++) {
